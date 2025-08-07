@@ -49,7 +49,15 @@
 
 ###
 
-<h2 align="left">Let's Talk:</h2>
+<h1 align="left"></h1>
+
+###
+
+<h3 align="left">Let's Talk:</h3>
+
+###
+
+<img align="right" height="200" src="https://media1.tenor.com/m/E9Qe5VamQVYAAAAd/gojo.gif"  />
 
 ###
 
@@ -64,13 +72,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diepngo21/diepngo21/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diepngo21/diepngo21/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diepngo21/diepngo21/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
