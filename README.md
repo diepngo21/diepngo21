@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">Hello, my name is Diep. <br><br>Gender: Male<br><br>Age: 20y/o<br><br>I am a dedicated software engineer with a passion for developing websites and AI. <br><br>Currently studying at a university and working as a student assistant for the Engineering, Physics, and Astronomy Department.<br><br>Hobbies:<br><br>8 ball 🎱<br><br>Strategy games (HSR, TFT, poker, blackjack, chess, etc.). 🃏<br><br>Watch Anime 💻.</p>
+<p align="left">Hello, my name is Diep. <br><br>Gender: Male<br><br>Age: 20y/o<br><br>I am a dedicated software engineer with a passion for developing websites and AI. <br><br>Currently studying at a university and working as a student assistant for the Engineering, Physics, and Astronomy Department.<br><br>Hobbies:<br><br>8 ball 🎱<br><br>Strategy games (HSR, TFT, poker, blackjack, chess, etc.) 🃏<br><br>Watch Anime 💻<br><br>Yap 🗣️🗣️🗣️</p>
 
 ###
 
